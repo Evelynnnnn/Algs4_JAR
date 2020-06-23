@@ -1,4 +1,4 @@
-package com.algs4_jar.utils;
+package com.algs4_jar.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
